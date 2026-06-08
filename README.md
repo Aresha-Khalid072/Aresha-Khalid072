@@ -2,7 +2,7 @@
 
 > Web Developer in training | Gujrat, Pakistan 📍
 
-🎓 CS student | Web Dev + React.js seekh rahi hoon
+🎓 CS student | Web Dev + React.js 
 💻 C++ background (Semester 1–4)
 🌱 Currently learning: **React.js**
 🚀 Building projects daily
