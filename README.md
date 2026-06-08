@@ -19,12 +19,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=APNA_USERNAME&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=APNA_USERNAME&theme=tokyonight)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APNA_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect
 📧 Gmail: areshakhalid072@gmail.com
