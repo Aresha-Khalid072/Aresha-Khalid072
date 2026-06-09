@@ -19,5 +19,9 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aresha-Khalid072)](https://git.io/streak-stats)
+
+
+---
 ## 📫 Connect
 📧 Gmail: areshakhalid072@gmail.com
