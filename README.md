@@ -2,8 +2,8 @@
 
 > Computer Science Student | Frontend Developer 📍 Gujrat, Pakistan
 
-🎓 CS Student | Frontend Developer (HTML, CSS, JS)
-🌱 Learning Backend Development (Express.js), Python & Data Science
+🎓 CS Student | Full Stack Developer (Frontend & Backend)
+🌱 Learning Python & Data Science
 💻 C++
 🚀 Building projects daily
 
@@ -23,10 +23,13 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 
-**Backend & Databases**
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+**Databases**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 **Learning**
@@ -56,14 +59,6 @@
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aresha-Khalid072&theme=redical&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aresha-Khalid072&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
