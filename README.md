@@ -1,6 +1,6 @@
 # Hi there! I'm Aresha Khalid 👋
 
-> Computer Science Student | Frontend Developer 📍 Gujrat, Pakistan
+> Computer Science Student | Full Stack Developer 📍 Gujrat, Pakistan
 
 🎓 CS Student | Full Stack Developer (Frontend & Backend)
 🌱 Learning Python & Data Science
