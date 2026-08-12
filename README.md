@@ -50,14 +50,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aresha-Khalid072&show_icons=true&theme=radical&hide_border=true" alt="Aresha's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aresha-Khalid072&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aresha-Khalid072&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aresha-Khalid072&theme=redical&hide_border=true" alt="Activity Graph" />
