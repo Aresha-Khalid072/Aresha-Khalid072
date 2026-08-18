@@ -48,14 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aresha-Khalid072&theme=redical&hide_border=true" alt="Activity Graph" />
-</p>
-
----
 
 ## 📫 Connect
 
